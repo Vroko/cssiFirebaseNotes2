@@ -9,12 +9,16 @@ input::placeholder {
 /* Card start*/
 .card {
   overflow: hidden;
-  background: yellow;
+  /* background: yellow; */
   /* color: var(--bg); */
 }
 
 .card.large {
   border-radius: 5px;
+}
+
+.content {
+    text-align: center;
 }
 
 .title.no-padding {
